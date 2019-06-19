@@ -1,0 +1,19 @@
+{
+  "name": "demo-dotnet-2019-ssr-nextjs-typescript",
+  "version": "1.0.0",
+  "description": "Dotnet2019 application example",
+  "scripts": {
+    "build": "next build",
+    "start": "npm run build && next start"
+  },
+  "keywords": [],
+  "author": "@cbastospc",
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.1",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "typescript": "^3.5.2",
+    "typestyle": "^2.0.1"
+  }
+}
