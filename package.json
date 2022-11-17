@@ -10,7 +10,7 @@
   "author": "@cbastospc",
   "dependencies": {
     "@zeit/next-typescript": "^1.1.1",
-    "next": "^8.0.3",
+    "next": "^13.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "typescript": "^3.5.2",
